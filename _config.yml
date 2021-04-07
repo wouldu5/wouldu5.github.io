@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김민서"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/내 토끼..jpg"
   bio              : "열심히 공부하는 학생"
   location         : "대한민국"
   email            : "21-21005@hafs.hs.kr"

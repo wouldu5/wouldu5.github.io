@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :  "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "plum", "default","sunrise"
+minimal_mistakes_skin    :  "aqua" # "contrast", "dark", "dirt", "neon", "plum", "default","sunrise"
 
 # Site Settings
 locale                   : "ko"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "김민서"
   avatar           : "/assets/images/내 토끼..jpg"
-  bio              : "열심히 공부하는 학생"
+  bio              : "C언어 C언어"
   location         : "대한민국"
   email            : "21-21005@hafs.hs.kr"
   links:
